@@ -6,7 +6,8 @@
     "require": {
         "php": "~7.1.0",
         "laravel/framework": "~5.5",
-        "intervention/image": "^2.4"
+        "intervention/image": "^2.4",
+        "qiniu/php-sdk": "7.2.*"
     },
     "autoload": {
         "psr-4": {
